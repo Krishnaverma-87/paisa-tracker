@@ -1,0 +1,8 @@
+{
+  "name": "paisa-ledger",
+  "version": "2.0.0",
+  "description": "Paisa - personal finance tracker (Express + MongoDB)",
+  "main": "server.js",
+  "scripts": { "seed": "node seed.js", "start": "node server.js" },
+  "dependencies": { "dotenv": "^16.4.5", "express": "^4.19.2", "mongoose": "^8.5.0" }
+}
