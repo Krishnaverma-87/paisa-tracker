@@ -25,7 +25,7 @@ A full-stack expense tracker to record income and expenses, and see where your m
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/<your-username>/paisa-tracker.git
+   git clone https://github.com/<Krishnaverma-87>/paisa-tracker.git
    cd paisa-tracker
    ```
 
